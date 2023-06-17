@@ -47,11 +47,10 @@ $result = mysqli_query($conn, $query);
                 <th>Problem_description</th>
                 <th>Address</th>
                 <th>Emergency_status</th>
-                <th>Description</th>
-                <th>Address</th>
                 <th>latitude</th>
                 <th>longitude</th>
                 <th>Timestamp</th>
+                <th>ProblemImage</th>
                 <th>Solved/Not?</th>
                 <th>View in Map</th>
 
